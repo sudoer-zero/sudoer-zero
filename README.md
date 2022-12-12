@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sudoer-zero
 - 👀 I’m interested in web apps.
-- 🌱 I’m currently learning Django/Vuejs/DAP.
+- 🌱 I’m currently learning Django/Vuejs.
 - 💞️ I’m looking to collaborate on any web app.
