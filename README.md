@@ -27,5 +27,3 @@ Apart from coding, I create content on platforms like YouTube and X. Here's what
 ## Open for Collaboration
 
 I'm always open to collaborating on interesting projects. If you have something in mind, let's connect and create!
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
