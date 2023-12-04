@@ -14,7 +14,7 @@ I'm Osama Arabi, a passionate developer and content creator.
 Apart from coding, I create content on platforms like YouTube and X. Here's what you can find:
 
 - [My YouTube Channel](https://www.youtube.com/@SudoerZero): Code walkthroughs, tech reviews, and more
-- [My X on Account](https://twitter.com/@SudoerZero): Posts about development, productivity, and tech trends
+- [My Account on X](https://twitter.com/@SudoerZero): Posts about development, productivity, and tech trends
 
 ## Tech Stack
 
