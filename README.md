@@ -19,7 +19,7 @@ Apart from coding, I create content on platforms like YouTube and X. Here's what
 ### Tech Stack
 
 - Languages: JavaScript, Python, HTML, CSS
-- Frontend: Vue.js, Next.js
+- Frontend: Vue.js, Nuxt.js
 - Backend: Python, Django
 - Database: Supabase, PostgreSQL
 - Tools: Git, VS Code, Neovim
